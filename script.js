@@ -256,7 +256,7 @@ function confetti() {
   container.style.position = 'fixed';
   container.style.top = '0';
   container.style.left = '0';
-  container.style.width = '100%';
+  container.style.width = '800%';
   container.style.height = '0';
   container.style.overflow = 'visible';
   container.style.zIndex = '9999';
